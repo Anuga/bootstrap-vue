@@ -28,7 +28,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 ```
 
-**Note**: _requires webpack configuration to load css files ([official guide](https://webpack.js.org/guides/asset-management/#loading-css))_
+**Note**: _requires webpack configuration to load css files ([official guide](https://webpack.js.org/guides/asset-management/#loading-css)) or the VueJS adapted [vue-style-loader](https://github.com/vuejs/vue-style-loader) which also supports server side rendering_
 
 ## Nuxt.js
 Install dependencies:
